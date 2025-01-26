@@ -29,11 +29,12 @@ All coding projects are built from the ground up, from planning and designing al
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br />
+<hr />
 
 
 
 
-## 🏗️ My GitHub Projects
+### 🏗️ My GitHub Projects
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
 
