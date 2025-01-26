@@ -31,15 +31,17 @@ All coding projects are built from the ground up, from planning and designing al
 <br />
 
 
-## 🏗️ My GitHub Projects
+
+
+### 🏗️ My GitHub Projects
 
 <!-- BEGIN GITHUB-CARDS -->
-[![Project One](./images/project-one.png "Project One")](https://github.com/YourUsername/ProjectOne)
-[![Project Two](./images/project-two.png "Project Two")](https://github.com/YourUsername/ProjectTwo)
-[![Project Three](./images/project-three.png "Project Three")](https://github.com/YourUsername/ProjectThree)
-[![Project Four](./images/project-four.png "Project Four")](https://github.com/YourUsername/ProjectFour)
-[![Project Five](./images/project-five.png "Project Five")](https://github.com/YourUsername/ProjectFive)
-[![Project Six](./images/project-six.png "Project Six")](https://github.com/YourUsername/ProjectSix)
+[![Tyrell Bookstore](./Tyrell.png "Tyrell Bookstore")](https://github.com/tinyHiker/tyrell_book_store)
+[![Brokie Budgeter](./Budgeter.png "Brokie Budgeter")](https://github.com/tinyHiker/brokie_budgeter)
+[![YelpCamp](./YelpCamp.png "YelpCamp")](https://github.com/tinyHiker/YelpCamp)
+[![JavCart](./JavCart.png "JavCart")](https://github.com/tinyHiker/jav_cart)
+[![Pokedex](./Pokedex.png "Pokedex")](https://github.com/tinyHiker/pokedex)
+[![Iqba](./Iqba.png "Iqba")](https://github.com/tinyHiker/live_streaming)
 <!-- END GITHUB-CARDS -->
 
 
