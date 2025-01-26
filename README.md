@@ -7,24 +7,7 @@ Hi I'm Taha Iqbal. I'm a 3rd year computer sceince student at TMU (Toronto Metro
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
 
-## 🖋️ Projects
 
-### Project 1: [Tyrell Bookstore]
-**Description:** Tyrell Bookstore is a store for fantasy and fantastical fiction. It features the biggest hits from all the major fiction categories. Users can login, register, add items to their carts, checkout, see their order history, and view their user profile.
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20px"/>](https://github.com/tinyHiker/tyrell_book_store)
-&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="20px"/>](https://www.youtube.com/watch?v=Kz64tc0Pe0A)
-
----
-
-### Project 2: [Brokie Budgeter]
-**Description:** Expenses/budgeting app from scratch, using React & React Router DOM. Uses browser localstorage instead of database
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20px"/>](https://github.com/tinyHiker/brokie_budgeter)
-&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="20px"/>](https://www.youtube.com/watch?v=mWdGPfmdGUI)
-
----
 
 ### 🧰 Languages and Tools
 
@@ -44,7 +27,7 @@ All coding projects are built from the ground up, from planning and designing al
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
 <br />
 
 #
