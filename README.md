@@ -33,15 +33,62 @@ All coding projects are built from the ground up, from planning and designing al
 
 
 
-### 🏗️ My GitHub Projects
+## 🏗️ My GitHub Projects
 
-<!-- BEGIN GITHUB-CARDS -->
-[![Tyrell Bookstore](./Tyrell.png "Tyrell Bookstore")](https://github.com/tinyHiker/tyrell_book_store)
-[![Brokie Budgeter](./Budgeter.png "Brokie Budgeter")](https://github.com/tinyHiker/brokie_budgeter)
-[![YelpCamp](./YelpCamp.png "YelpCamp")](https://github.com/tinyHiker/YelpCamp)
-[![JavCart](./JavCart.png "JavCart")](https://github.com/tinyHiker/jav_cart)
-[![Pokedex](./Pokedex.png "Pokedex")](https://github.com/tinyHiker/pokedex)
-[![Iqba](./Iqba.png "Iqba")](https://github.com/tinyHiker/live_streaming)
-<!-- END GITHUB-CARDS -->
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
 
+  <!-- Card 1 -->
+  <div style="text-align: center;">
+    <h3>Tyrell Bookstore</h3>
+    <a href="https://github.com/tinyHiker/tyrell_book_store">
+      <img src="./Tyrell.png" alt="Tyrell Bookstore" title="Tyrell Bookstore" width="120"
+           style="border: 2px solid #ccc; border-radius: 8px; cursor: pointer;" />
+    </a>
+  </div>
 
+  <!-- Card 2 -->
+  <div style="text-align: center;">
+    <h3>Brokie Budgeter</h3>
+    <a href="https://github.com/tinyHiker/brokie_budgeter">
+      <img src="./Budgeter.png" alt="Brokie Budgeter" title="Brokie Budgeter" width="120"
+           style="border: 2px solid #ccc; border-radius: 8px; cursor: pointer;" />
+    </a>
+  </div>
+
+  <!-- Card 3 -->
+  <div style="text-align: center;">
+    <h3>YelpCamp</h3>
+    <a href="https://github.com/tinyHiker/YelpCamp">
+      <img src="./YelpCamp.png" alt="YelpCamp" title="YelpCamp" width="120"
+           style="border: 2px solid #ccc; border-radius: 8px; cursor: pointer;" />
+    </a>
+  </div>
+
+  <!-- Card 4 -->
+  <div style="text-align: center;">
+    <h3>JavCart</h3>
+    <a href="https://github.com/tinyHiker/jav_cart">
+      <img src="./JavCart.png" alt="JavCart" title="JavCart" width="120"
+           style="border: 2px solid #ccc; border-radius: 8px; cursor: pointer;" />
+    </a>
+  </div>
+
+  <!-- Card 5 -->
+  <div style="text-align: center;">
+    <h3>Pokedex</h3>
+    <a href="https://github.com/tinyHiker/pokedex">
+      <img src="./Pokedex.png" alt="Pokedex" title="Pokedex" width="120"
+           style="border: 2px solid #ccc; border-radius: 8px; cursor: pointer;" />
+    </a>
+  </div>
+
+  <!-- Card 6 -->
+  <div style="text-align: center;">
+    <h3>Iqba</h3>
+    <a href="https://github.com/tinyHiker/live_streaming">
+      <img src="./Iqba.png" alt="Iqba" title="Iqba" width="120"
+           style="border: 2px solid #ccc; border-radius: 8px; cursor: pointer;" />
+    </a>
+  </div>
+
+</div>
