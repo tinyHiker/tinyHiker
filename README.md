@@ -32,55 +32,96 @@ All coding projects are built from the ground up, from planning and designing al
 <hr />
 
 
+<style>
+  /* Container that holds all project cards */
+  .project-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px; /* Space between cards */
+    padding: 20px;
+  }
 
+  /* Individual project card styling */
+  .project-card {
+    width: 250px; /* Fixed width for each card */
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s;
+    overflow: hidden;
+  }
+  
+  /* A subtle hover effect */
+  .project-card:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Styling for the project image */
+  .project-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  /* Styling for the card header */
+  .project-card h3 {
+    font-size: 1.2em;
+    margin: 0;
+    padding: 10px;
+    background: #f9f9f9;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Link styling to remove underline and inherit color */
+  .project-card a {
+    text-decoration: none;
+    color: inherit;
+  }
+</style>
 
 ### 🏗️ My GitHub Projects
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; justify-items: center; align-items: start;">
-
+<div class="project-grid">
   <!-- Card 1 -->
-  <div style="text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: #fff;">
-    <h3 style="font-size: 1.1em; margin-bottom: 10px;">Tyrell Bookstore</h3>
+  <div class="project-card">
+    <h3>Tyrell Bookstore</h3>
     <a href="https://github.com/tinyHiker/tyrell_book_store">
-      <img src="./Tyrell.png" alt="Tyrell Bookstore" title="Tyrell Bookstore" width="120"
-           style="border-radius: 8px; display: block; margin: 0 auto;" />
+      <img src="./Tyrell.png" alt="Tyrell Bookstore" title="Tyrell Bookstore" />
     </a>
   </div>
-
+  
   <!-- Card 2 -->
-  <div style="text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: #fff;">
-    <h3 style="font-size: 1.1em; margin-bottom: 10px;">Brokie Budgeter</h3>
+  <div class="project-card">
+    <h3>Brokie Budgeter</h3>
     <a href="https://github.com/tinyHiker/brokie_budgeter">
-      <img src="./Budgeter.png" alt="Brokie Budgeter" title="Brokie Budgeter" width="120"
-           style="border-radius: 8px; display: block; margin: 0 auto;" />
+      <img src="./Budgeter.png" alt="Brokie Budgeter" title="Brokie Budgeter" />
     </a>
   </div>
-
+  
   <!-- Card 3 -->
-  <div style="text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: #fff;">
-    <h3 style="font-size: 1.1em; margin-bottom: 10px;">YelpCamp</h3>
+  <div class="project-card">
+    <h3>YelpCamp</h3>
     <a href="https://github.com/tinyHiker/YelpCamp">
-      <img src="./YelpCamp.png" alt="YelpCamp" title="YelpCamp" width="120"
-           style="border-radius: 8px; display: block; margin: 0 auto;" />
+      <img src="./YelpCamp.png" alt="YelpCamp" title="YelpCamp" />
     </a>
   </div>
-
+  
   <!-- Card 4 -->
-  <div style="text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: #fff;">
-    <h3 style="font-size: 1.1em; margin-bottom: 10px;">JavCart</h3>
+  <div class="project-card">
+    <h3>JavCart</h3>
     <a href="https://github.com/tinyHiker/jav_cart">
-      <img src="./JavCart.png" alt="JavCart" title="JavCart" width="120"
-           style="border-radius: 8px; display: block; margin: 0 auto;" />
+      <img src="./JavCart.png" alt="JavCart" title="JavCart" />
     </a>
   </div>
-
+  
   <!-- Card 5 -->
-  <div style="text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: #fff;">
-    <h3 style="font-size: 1.1em; margin-bottom: 10px;">Pokedex</h3>
+  <div class="project-card">
+    <h3>Pokedex</h3>
     <a href="https://github.com/tinyHiker/pokedex">
-      <img src="./Pokedex.png" alt="Pokedex" title="Pokedex" width="120"
-           style="border-radius: 8px; display: block; margin: 0 auto;" />
+      <img src="./Pokedex.png" alt="Pokedex" title="Pokedex" />
     </a>
   </div>
-
 </div>
