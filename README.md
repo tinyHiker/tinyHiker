@@ -32,55 +32,6 @@ All coding projects are built from the ground up, from planning and designing al
 <hr />
 
 
-<style>
-  /* Container that holds all project cards */
-  .project-grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px; /* Space between cards */
-    padding: 20px;
-  }
-
-  /* Individual project card styling */
-  .project-card {
-    width: 250px; /* Fixed width for each card */
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    background: #fff;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    transition: transform 0.3s;
-    overflow: hidden;
-  }
-  
-  /* A subtle hover effect */
-  .project-card:hover {
-    transform: scale(1.05);
-  }
-  
-  /* Styling for the project image */
-  .project-card img {
-    width: 100%;
-    height: auto;
-    display: block;
-  }
-  
-  /* Styling for the card header */
-  .project-card h3 {
-    font-size: 1.2em;
-    margin: 0;
-    padding: 10px;
-    background: #f9f9f9;
-    border-bottom: 1px solid #ddd;
-  }
-  
-  /* Link styling to remove underline and inherit color */
-  .project-card a {
-    text-decoration: none;
-    color: inherit;
-  }
-</style>
 
 ### 🏗️ My GitHub Projects
 
