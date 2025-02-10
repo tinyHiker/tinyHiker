@@ -84,44 +84,36 @@ All coding projects are built from the ground up, from planning and designing al
 
 ### 🏗️ My GitHub Projects
 
-<div class="project-grid">
-  <!-- Card 1 -->
-  <div class="project-card">
-    <h3>Tyrell Bookstore</h3>
-    <a href="https://github.com/tinyHiker/tyrell_book_store">
-      <img src="./Tyrell.png" alt="Tyrell Bookstore" title="Tyrell Bookstore" />
-    </a>
-  </div>
-  
-  <!-- Card 2 -->
-  <div class="project-card">
-    <h3>Brokie Budgeter</h3>
-    <a href="https://github.com/tinyHiker/brokie_budgeter">
-      <img src="./Budgeter.png" alt="Brokie Budgeter" title="Brokie Budgeter" />
-    </a>
-  </div>
-  
-  <!-- Card 3 -->
-  <div class="project-card">
-    <h3>YelpCamp</h3>
-    <a href="https://github.com/tinyHiker/YelpCamp">
-      <img src="./YelpCamp.png" alt="YelpCamp" title="YelpCamp" />
-    </a>
-  </div>
-  
-  <!-- Card 4 -->
-  <div class="project-card">
-    <h3>JavCart</h3>
-    <a href="https://github.com/tinyHiker/jav_cart">
-      <img src="./JavCart.png" alt="JavCart" title="JavCart" />
-    </a>
-  </div>
-  
-  <!-- Card 5 -->
-  <div class="project-card">
-    <h3>Pokedex</h3>
-    <a href="https://github.com/tinyHiker/pokedex">
-      <img src="./Pokedex.png" alt="Pokedex" title="Pokedex" />
-    </a>
-  </div>
-</div>
+<h2>My GitHub Projects</h2>
+
+<table style="width:100%; border-collapse: collapse; font-family: Arial, sans-serif;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Project Name</th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">GitHub Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Tyrell Bookstore</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/tinyHiker/tyrell_book_store" target="_blank">View Project</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Brokie Budgeter</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/tinyHiker/brokie_budgeter" target="_blank">View Project</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">YelpCamp</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/tinyHiker/YelpCamp" target="_blank">View Project</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">JavCart</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/tinyHiker/jav_cart" target="_blank">View Project</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Pokedex</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/tinyHiker/pokedex" target="_blank">View Project</a></td>
+    </tr>
+  </tbody>
+</table>
+
