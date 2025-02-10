@@ -36,59 +36,50 @@ All coding projects are built from the ground up, from planning and designing al
 
 ### 🏗️ My GitHub Projects
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; justify-items: center; align-items: start;">
 
   <!-- Card 1 -->
-  <div style="text-align: center;">
-    <h3>Tyrell Bookstore</h3>
+  <div style="text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: #fff;">
+    <h3 style="font-size: 1.1em; margin-bottom: 10px;">Tyrell Bookstore</h3>
     <a href="https://github.com/tinyHiker/tyrell_book_store">
       <img src="./Tyrell.png" alt="Tyrell Bookstore" title="Tyrell Bookstore" width="120"
-           style="border: 2px solid #ccc; border-radius: 8px; cursor: pointer;" />
+           style="border-radius: 8px; display: block; margin: 0 auto;" />
     </a>
   </div>
 
   <!-- Card 2 -->
-  <div style="text-align: center;">
-    <h3>Brokie Budgeter</h3>
+  <div style="text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: #fff;">
+    <h3 style="font-size: 1.1em; margin-bottom: 10px;">Brokie Budgeter</h3>
     <a href="https://github.com/tinyHiker/brokie_budgeter">
       <img src="./Budgeter.png" alt="Brokie Budgeter" title="Brokie Budgeter" width="120"
-           style="border: 2px solid #ccc; border-radius: 8px; cursor: pointer;" />
+           style="border-radius: 8px; display: block; margin: 0 auto;" />
     </a>
   </div>
 
   <!-- Card 3 -->
-  <div style="text-align: center;">
-    <h3>YelpCamp</h3>
+  <div style="text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: #fff;">
+    <h3 style="font-size: 1.1em; margin-bottom: 10px;">YelpCamp</h3>
     <a href="https://github.com/tinyHiker/YelpCamp">
       <img src="./YelpCamp.png" alt="YelpCamp" title="YelpCamp" width="120"
-           style="border: 2px solid #ccc; border-radius: 8px; cursor: pointer;" />
+           style="border-radius: 8px; display: block; margin: 0 auto;" />
     </a>
   </div>
 
   <!-- Card 4 -->
-  <div style="text-align: center;">
-    <h3>JavCart</h3>
+  <div style="text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: #fff;">
+    <h3 style="font-size: 1.1em; margin-bottom: 10px;">JavCart</h3>
     <a href="https://github.com/tinyHiker/jav_cart">
       <img src="./JavCart.png" alt="JavCart" title="JavCart" width="120"
-           style="border: 2px solid #ccc; border-radius: 8px; cursor: pointer;" />
+           style="border-radius: 8px; display: block; margin: 0 auto;" />
     </a>
   </div>
 
   <!-- Card 5 -->
-  <div style="text-align: center;">
-    <h3>Pokedex</h3>
+  <div style="text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: #fff;">
+    <h3 style="font-size: 1.1em; margin-bottom: 10px;">Pokedex</h3>
     <a href="https://github.com/tinyHiker/pokedex">
       <img src="./Pokedex.png" alt="Pokedex" title="Pokedex" width="120"
-           style="border: 2px solid #ccc; border-radius: 8px; cursor: pointer;" />
-    </a>
-  </div>
-
-  <!-- Card 6 -->
-  <div style="text-align: center;">
-    <h3>Iqba</h3>
-    <a href="https://github.com/tinyHiker/live_streaming">
-      <img src="./Iqba.png" alt="Iqba" title="Iqba" width="120"
-           style="border: 2px solid #ccc; border-radius: 8px; cursor: pointer;" />
+           style="border-radius: 8px; display: block; margin: 0 auto;" />
     </a>
   </div>
 
