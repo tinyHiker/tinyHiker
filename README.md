@@ -33,7 +33,7 @@ All coding projects are built from the ground up, from planning and designing al
 
 
 
-### 🏗️ My GitHub Projects
+
 
 <h2>My GitHub Projects</h2>
 
