@@ -7,10 +7,7 @@ Hi I'm Taha Iqbal. I'm a 3rd year computer sceince student at TMU (Toronto Metro
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
 
-
-
 ### 🧰 Languages and Tools
-
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
@@ -30,10 +27,6 @@ All coding projects are built from the ground up, from planning and designing al
 
 <br />
 <hr />
-
-
-
-
 
 <h2>My GitHub Projects</h2>
 
@@ -67,4 +60,9 @@ All coding projects are built from the ground up, from planning and designing al
     </tr>
   </tbody>
 </table>
+
+---
+
+### ⭐ My Favorite Project
+Out of all my projects, the [**Tyrell Bookstore**](https://github.com/tinyHiker/tyrell_book_store) is my personal favorite. It's an E-commerce application that demonstrates full-stack development—from front-end design to back-end data management—and leverages testing principles learned in my SDET role.
 
